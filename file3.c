@@ -1,1 +1,1 @@
-this is second line at devbranch
+this is second line at master branch
